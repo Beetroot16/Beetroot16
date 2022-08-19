@@ -7,5 +7,4 @@
 - 👾 Very keen to work on open source projects.
 - 🎸 I am also a musician.
 
-## Contact Me.
-[![https://codeSTACKr.com](./img/globe-light.svg)](https://codestackr.com#gh-light-mode-only)
+<p><img align="right" src="https://github.com/Beetroot16/Beetroot16/bongo-cat-codes.gif" alt="beetroot16" /></p>
