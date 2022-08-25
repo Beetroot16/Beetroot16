@@ -2,7 +2,7 @@
 
 # I'm a Computer Engineering student.
 
-<img width="30%" align="right" alt="Github" src="coding.gif" />
+<img width="40%" align="right" alt="Github" src="coding.gif" />
 
 - 🤖 Research and development head at Team KJSCE Robocon.
 - 📚 Currently at KJ. Somaiya College of Engineering.
