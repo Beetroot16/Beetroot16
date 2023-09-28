@@ -1,5 +1,3 @@
-<p><center><img src="Header.png" alt="beetroot16" /></p></center>
-
 # I'm a Computer Engineering student.
 
 <img width="30%" align="right" alt="Github" src="coding.gif" />
